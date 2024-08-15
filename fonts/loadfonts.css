@@ -1,1 +1,9 @@
+@font-face {
+    font-family: 'AlibabaPuhuitiHeavy';
+    src: url('customfont.eot');
+    src: url('customfont.eot?#iefix') format('embedded-opentype'),
+         url('customfont.woff') format('woff'),
+         url('customfont.ttf') format('truetype'),
+         url('customfont.svg#CustomFont') format('svg');
+}
 
