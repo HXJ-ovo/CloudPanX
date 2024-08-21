@@ -1,5 +1,5 @@
 @font-face {
-    font-family: '阿里巴巴普惠体Heavy';
+    font-family: "阿里巴巴普惠体";
     src: url('/fonts/font.eot');
     src: url('font.eot?#iefix') format('embedded-opentype'),
          url('/fonts/font.woff') format('woff'),
@@ -8,4 +8,6 @@
          url('/fonts/font.ttf') format('truetype'),
          url('font.svg#CustomFont') format('svg');
 }
-
+body {
+    font-family: "阿里巴巴普惠体", sans-serif;
+}
