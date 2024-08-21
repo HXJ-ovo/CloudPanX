@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'AlibabaPuhuitiHeavy';
-    src: url('font.eot');
+    font-family: '阿里巴巴普惠体Heavy';
+    src: url('/fonts/font.eot');
     src: url('font.eot?#iefix') format('embedded-opentype'),
-         url('font.woff') format('woff'),
-         url('font.woff2') format('woff2'),
-         url('font.otf') format('opentype'),
-         url('font.ttf') format('truetype'),
+         url('/fonts/font.woff') format('woff'),
+         url('/fonts/font.woff2') format('woff2'),
+         url('/fonts/font.otf') format('opentype'),
+         url('/fonts/font.ttf') format('truetype'),
          url('font.svg#CustomFont') format('svg');
 }
 
